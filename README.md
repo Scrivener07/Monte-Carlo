@@ -12,3 +12,7 @@ Demonstrates the Monte Carlo method by calculating the value of PI.
 
 ### Notes
 * Approximately 50,000 to 1,000,000 points will provide results near PI.
+
+
+### Preview
+![Preview](Monte-Carlo.gif)
